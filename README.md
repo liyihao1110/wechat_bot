@@ -8,7 +8,7 @@
    ```bash
    git clone https://github.com/liyihao1110/wechat_bot.git
    ```
-2. 修改配置文件:打开`config.ini`文件，并根据实际情况填写相关信息。
+2. 修改配置文件:打开config.ini文件，并根据实际情况填写相关信息。
 3. 运行微信机器人:
 4. ```bash
    cd wechat_bot
