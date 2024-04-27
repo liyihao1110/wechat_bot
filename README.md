@@ -10,7 +10,7 @@
    ```
 2. 修改配置文件:打开config.ini文件，并根据实际情况填写相关信息。
 3. 运行微信机器人:
-4. ```bash
+   ```bash
    cd wechat_bot
    ./wechat.exe
    ```
